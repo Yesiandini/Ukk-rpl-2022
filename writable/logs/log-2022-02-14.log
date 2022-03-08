@@ -1,0 +1,147 @@
+CRITICAL - 2022-02-14 19:18:13 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:18:35 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\CatatanPerjalanan->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CatatanPerjalanan))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:18:42 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:31:12 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:31:58 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:32:00 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:36:57 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:37:00 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:37:07 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:38:30 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:38:51 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:39:32 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:39:45 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:43:26 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:53:36 --> Class 'App\Models\User_model' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:54:50 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 19:54:59 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 20:27:21 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 20:27:33 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 20:27:38 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
+CRITICAL - 2022-02-14 20:27:57 --> Class 'App\Controllers\UserModel' not found
+#0 D:\UKK\UKK 2022\system\CodeIgniter.php(825): App\Controllers\IsiData->index()
+#1 D:\UKK\UKK 2022\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\UKK\UKK 2022\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\UKK\UKK 2022\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\UKK\UKK 2022\system\Commands\Server\rewrite.php(43): require_once('D:\\UKK\\UKK 2022...')
+#5 {main}
